@@ -1,0 +1,12 @@
+body {
+    background-color: #969cd6;
+    color:#000
+    }
+
+    :root {
+    --tamanho-fonte: 20px;
+}
+
+p {
+    font-size: var(--tamanho-fonte);
+}
